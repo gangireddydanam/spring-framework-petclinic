@@ -25,7 +25,7 @@
     <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
     <jdbc.url>jdbc:mysql://localhost:3306/dev_petclinic?useUnicode=true</jdbc.url>
     <jdbc.username>root</jdbc.username>
-    <jdbc.password>?aklvcjrR4!9</jdbc.password>
+    <jdbc.password>H!dert510OcfgdyU</jdbc.password>
 
 
         <!-- Spring -->
