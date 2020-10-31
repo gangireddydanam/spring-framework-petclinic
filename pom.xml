@@ -19,6 +19,14 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
+        
+         
+    <jpa.database>MYSQL</jpa.database>
+    <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
+    <jdbc.url>jdbc:mysql://localhost:3306/dev_petclinic?useUnicode=true</jdbc.url>
+    <jdbc.username>root</jdbc.username>
+    <jdbc.password>?aklvcjrR4!9</jdbc.password>
+
 
         <!-- Spring -->
         <!-- For framework compatibility, refer to the Spring Boot Dependencies BOM -->
